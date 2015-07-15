@@ -3,11 +3,11 @@ Get stats for livestrong articles from fb api
 
 ##Prerequisites
 
-1. Install dependencies using composer (https://getcomposer.org/):
+- Install dependencies using composer (https://getcomposer.org/):
 
 `composer install`
 
-2. Create mysql database to store stats: see `livestrong.sql`
+- Create mysql database to store stats: see `livestrong.sql`
 
 ##Scripts
 
