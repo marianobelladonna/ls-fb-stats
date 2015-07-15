@@ -18,3 +18,9 @@ Get stats for livestrong articles from fb api
 *export.php* dumps the content of the table out to a csv file.
 
 *getstatus.php* gets some sample url from the database and outputs the response's status for each request.
+
+##Disclaimer
+
+Just a bunch of one time scripts to get things done quickly.
+Uploading just for future reference.
+Contains known security holes and performance issues.
