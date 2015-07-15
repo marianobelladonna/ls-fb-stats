@@ -1,0 +1,13 @@
+{
+    "name": "mariano/ls-comment-count",
+    "authors": [
+        {
+            "name": "Mariano Belladonna",
+            "email": "mariano.belladonna@demandmedia.com"
+        }
+    ],
+    "require": {
+        "league/csv": "~7.1",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
